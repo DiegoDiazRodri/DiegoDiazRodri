@@ -4,7 +4,15 @@
 
 ###
 
-<h1 align="center">hola 👋</h1>
+<h1 align="center"> ¡Bienvenidos a mi Repositorio de Desarrollo de Software! 👨‍💻🚀 <br><br>
+
+Hola a todos, soy Diego. Aquí comparto mi pasión por el desarrollo de software, explorando tecnologías del front-end al back-end. 🌐💻<br><br>
+
+"Cada línea de código tiene el poder de crear algo bello y poderoso, como escribir poesía en el mundo digital." 💻✨
+
+</h1>
+
+
 
 ###
 
@@ -61,15 +69,8 @@
 </div>
 
 
-
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/Diego/Diego/output/snake.svg" alt="Snake animation" />
 
 ###
