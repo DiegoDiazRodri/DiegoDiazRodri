@@ -4,9 +4,7 @@
 
 ###
 
-<h1 align="center"> ¡Bienvenidos a mi Repositorio de Desarrollo de Software! 👨‍💻🚀 <br><br>
-
-Hola a todos, soy Diego. Aquí comparto mi pasión por el desarrollo de software, explorando tecnologías del front-end al back-end. 🌐💻<br><br>
+<h1 align="center"> Hola a todos, soy Diego. Aquí comparto mi pasión por el desarrollo de software, explorando tecnologías del front-end al back-end. 🌐💻<br><br>
 
 "Cada línea de código tiene el poder de crear algo bello y poderoso, como escribir poesía en el mundo digital." 💻✨
 
